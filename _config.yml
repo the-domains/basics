@@ -1,4 +1,4 @@
-name: null
+name: basics
 favicon: null
 layout_spectrum: 0.8
 cta:
@@ -14,8 +14,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0
+  brandColors:
+    - '#f6a63d'
+    - '#ffffff'
+    - '#fdebdb'
+    - '#f9c382'
+    - '#fbd5ae'
+  brandStrength: 1
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
