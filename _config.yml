@@ -1,6 +1,6 @@
 name: basics
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.99782
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#f9c382'
     - '#fbd5ae'
   brandStrength: 1
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  lightness: 0.75
+  saturation: 1
+  rhythmicContrast: 0.25
 purpose: []
