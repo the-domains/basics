@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[how to get started with the best]]></title>
+        <description><![CDATA[how to get started with the best]]></description>
+        <link>https://thegrid.ai/basics/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 15 Oct 2015 00:41:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/basics/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[the best gym/duffle bag]]></title>
+            <description><![CDATA[<article><h1>the best gym/duffle bag</h1><p>the best duffle bag</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3be5263c-117f-404c-a59b-65103d01dc29.jpg"></article>]]></description>
+            <link>https://thegrid.ai/basics/the-best-gymduffle-bag/index.html</link>
+            <guid isPermaLink="false">7cf6d12b-827a-4c18-9227-274dfae73257</guid>
+            <pubDate>Thu, 15 Oct 2015 00:41:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[the best suitcase]]></title>
+            <description><![CDATA[<article><h1>the best suitcase</h1><p>future-proofed with utility</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/600a55e3-5bc0-48ff-a507-4c8c1b017b26.png"></article>]]></description>
+            <link>https://thegrid.ai/basics/the-best-suitcase/index.html</link>
+            <guid isPermaLink="false">5d403ac2-b578-4009-b2bd-f8f0672c61cd</guid>
+            <pubDate>Mon, 12 Oct 2015 17:50:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
